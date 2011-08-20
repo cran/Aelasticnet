@@ -1,0 +1,12 @@
+6e3a7a1fe4721729f3561be2a061d046 *DESCRIPTION
+17a680aacd17cdee76986c6b77fb4c6f *NAMESPACE
+2af7972d891c111b52bdc6e05ba03727 *R/enetbqr.R
+de5db182a388e4f1a51ba1d4ef187600 *R/enetqr.R
+5b714c3dd3b15da23b5cdb9ffb91c236 *R/model.selection.R
+18cb52fc67633a5ab7739641d77ee28a *R/most.signif.R
+9925c850fa14e3393ba702f42d35c82a *man/enetbqr.Rd
+c792b20f55032ef9d65ff0d1d5d3ec94 *man/enetqr.Rd
+4dada31aa9b914af1c12099934033827 *man/model.selection.Rd
+2e1af38be6ddf33842064e7ee5deda29 *man/most.signif.Rd
+6e79a0e27ccf6bdda0ee33a449bffb51 *src/Aelasticnet.f95
+1acb5d7ce5e946efef0dec8721090543 *src/QRbAL.f95
